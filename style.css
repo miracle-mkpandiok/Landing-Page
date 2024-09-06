@@ -80,7 +80,7 @@ footer{
 
 }
 
-@media  (max-width: 768px){
+@media  (min-width: 480px){
     body{
         background-color: none;
        color: white;
