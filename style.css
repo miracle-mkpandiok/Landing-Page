@@ -106,7 +106,7 @@ h1{
 form{
     margin-left: 0%;
  align-content: left;
- justify-content: left
+ justify-content: left;
     margin-bottom: 8px;
     font-size: 1vw;
 
@@ -116,10 +116,14 @@ form{
         background-color: darkmagenta;
         color: white;
         font-weight: bolder;
-        border: 80%;
-    border-radius: 70%;
-     width: 100%;
-       padding: 10px;
+     border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 40%;  
+    opacity: 0.9;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
         
 }
 }
