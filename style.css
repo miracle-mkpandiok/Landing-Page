@@ -115,15 +115,11 @@ form{
     form button{
         background-color: darkmagenta;
         color: white;
-        font-weight: bolder;
      border: 50%;
     cursor: pointer;
-    border-radius: 20px;
-    width: 70%;  
-    opacity: 0.9;
-    display: flex;
-    flex-wrap: wrap;
-    flex: 1;
+    border-radius: 10px;
+    width: 70%;   
+    
 }
 }
 
