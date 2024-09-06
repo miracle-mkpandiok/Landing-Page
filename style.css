@@ -84,17 +84,15 @@ footer{
 @media  (max-width: 768px){
     body{
         background-color: none;
-       color: deeppink;
+       color: white;
        background-image: linear-gradient( blueviolet, plum);
        font-family: 'Times New Roman', Times, serif;
        font-size: 10px;
        font-weight: bolder;
-       padding-top: 1px;
-       padding-bottom: 2px;
     }
 
 a {
-    color: deeppink;
+    color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -105,10 +103,10 @@ h1{
     color: white;
 }
 form{
-    margin-left: 40%;
+    margin-left: 30%;
     margin-bottom: 8px;
     font-weight: 100;
-    font-size: larger;
+    font-size: 2vw;
 
 }
 
