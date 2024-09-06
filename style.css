@@ -93,6 +93,10 @@ nav{
  display: flex;
  justify-content: space-between;
 padding-top: 0;
+}
+ img{
+  display: none;
+ }
 a {
     color: white;
     display: flex;
@@ -115,12 +119,14 @@ form{
     form button{
         background-color: darkmagenta;
         color: white;
+     padding: 15px 20px
      border: 50%;
     cursor: pointer;
     border-radius: 10px;
     width: 70%;   
     
 }
+
 }
 
 
