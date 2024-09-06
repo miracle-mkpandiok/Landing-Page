@@ -104,19 +104,17 @@ h1{
     color: white;
 }
 form{
-    margin-left: 30%;
+    margin-left: 20%;
     margin-bottom: 8px;
-    font-weight: 100;
-    font-size: 2vw;
+    font-size: 1vw;
 
 }
-
 
     form button{
         background-color: darkmagenta;
         color: white;
         font-weight: bolder;
-        border: 10px;
+        border: none;
         border-radius: 20px;
         width: 100%;
         padding: 10px;
