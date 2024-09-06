@@ -95,8 +95,7 @@ a {
     color: white;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    font-size: 10px;
+    font-size: 5px;
 }
 h1{
     background-color: deeppink;
