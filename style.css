@@ -46,7 +46,6 @@ h1{
 }                                              
  .container{
     padding: 1em;
-    line-height: 1em;
     overflow-wrap: break-word;
     margin-bottom: 5px;
  }
@@ -90,7 +89,10 @@ footer{
        font-size: 10px;
        font-weight: bolder;
     }
-
+nav{
+ display: flex;
+ justify-content: space-between;
+padding-top: 0;
 a {
     color: white;
     display: flex;
