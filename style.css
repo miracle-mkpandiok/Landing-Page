@@ -116,7 +116,7 @@ form{
         background-color: darkmagenta;
         color: white;
         font-weight: bolder;
-     border: none;
+     border: 50%;
     cursor: pointer;
     border-radius: 20px;
     width: 70%;  
